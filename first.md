@@ -1,10 +1,4 @@
-meta title first slug
 
-meta slug first
-
-meta author Evan Muday
-
-meta date May 21, 2022
 
 An introduction is cool.
 
@@ -15,3 +9,11 @@ An introduction is cool.
 * beans
 
 The only reason this is here is because it is markdown.
+
+_title first slug
+
+_meta slug first
+
+_meta author Evan Muday
+
+_meta date May 21, 2022
