@@ -10,9 +10,11 @@ An introduction is cool.
 
 The only reason this is here is because it is markdown.
 
-_title first slug
+@title
+first title
 
-_meta slug first
+@slug
+first
 
 _meta author Evan Muday
 
