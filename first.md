@@ -1,4 +1,7 @@
 # First Contact
+slug:first
+author:Evan Muday
+date:May 21, 2022
 
 An introduction is cool.
 
