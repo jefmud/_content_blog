@@ -11,6 +11,6 @@ An introduction is cool.
 The only reason this is here is because it is markdown.
 
 meta#first title
-meta#slug
-meta#author Evan Muday
-meta#date May 21, 2022
+meta#slug#first
+meta#author#Evan Muday
+meta#date#May 21, 2022
