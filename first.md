@@ -1,6 +1,6 @@
-# I Walrus
+# I am the Walrus
 
-An introduction is cool.
+An introduction is cool. John Lenon wrote that a long time ago.  The Walrus is Paul.
 
 ## Meaningless List
 
