@@ -55,9 +55,15 @@ Why would you want to do this?  Mostly because it allows you to have a response 
 What should be noted is that if you access fields as a dictionary, you will get the FIRST field with that name and the rest will be ignored.
 
 meta#author#Evan R. Muday
-meta#date#May 28, 2022
+
+meta#created_at#May 28, 2022
+
 meta#title#Minimus Example 2
+
 meta#subtitle#you can even handle forms!
+
 meta#image_url#https://images.unsplash.com/photo-1653671637237-befb4bcfe142
+
 meta#is_published#true
+
 meta#slug#minimus-example-2
