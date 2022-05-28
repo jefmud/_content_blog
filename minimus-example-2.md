@@ -2,7 +2,7 @@ Here is an example of simple form handling with Minimus.
 
 Today we are going to create a very simple form with minimus.  First let's create a minimal Minumus app.
 
-```python
+<pre>
 from minimus import Minimus, parse_formvars
 
 app = Minimus(__name__)
@@ -12,7 +12,7 @@ def hello(environ):
     return "Hello for Minimus!"
 
 app.run()
-```
+</pre>
  
 
 This should get us up and running.
@@ -21,7 +21,7 @@ Let's check it out by using our browser to go to http://localhost:5000/hello thi
 
 Let's change the program up a little bit.  We're going to add a form to the program.  This form will have a name and a message, similar to a guestbook.  We are going to create a simple form in the program using three quotes to do a multiline string.
 
-```python
+<pre>
 from minimus import Minimus, parse_formvars
 
 app = Minimus(__name__)
@@ -45,7 +45,7 @@ def hello(environ):
     return simple_form
 
 app.run()
-```
+</pre>
  
 
 That's all there is to pick up the form fields!  One thing that you will note is that fields is/are returned as a Multidict type.  This is a common Python extra type that allows a dictionary to have multiple keys with the same name.
