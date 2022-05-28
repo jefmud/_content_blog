@@ -56,7 +56,7 @@ What should be noted is that if you access fields as a dictionary, you will get 
 
 meta#author#Evan R. Muday
 meta#date#May 28, 2022
-meta#title#Minimus Example #2
+meta#title#Minimus Example 2
 meta#subtitle#you can even handle forms!
 meta#image_url#https://unsplash.com/photos/8czqNBTRcXI
 meta#is_published#true
