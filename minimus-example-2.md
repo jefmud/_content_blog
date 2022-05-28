@@ -58,6 +58,6 @@ meta#author#Evan R. Muday
 meta#date#May 28, 2022
 meta#title#Minimus Example 2
 meta#subtitle#you can even handle forms!
-meta#image_url#https://unsplash.com/photos/8czqNBTRcXI
+meta#image_url#https://images.unsplash.com/photo-1653671637237-befb4bcfe142
 meta#is_published#true
 meta#slug#minimus-example-2
